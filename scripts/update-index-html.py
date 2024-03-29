@@ -5,7 +5,7 @@ Update index.html from streamlit by
 - adding meta tags for search engines
 - adding meta tags for social preview
 
-WARNING: This changes your existing streamlit installation (specifically the file 
+WARNING: This will change your existing streamlit installation (specifically the file 
 static/index.html in streamlit's main folder). It should only be called once after 
 installation, so this file doesn't get cluttered!
 
